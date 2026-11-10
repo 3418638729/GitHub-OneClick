@@ -1,0 +1,4 @@
+*.bat -text
+*.vbs -text
+*.md text eol=lf
+*.log binary
